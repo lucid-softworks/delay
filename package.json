@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/delay",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Wait for a duration with optional AbortSignal cancellation.",
   "keywords": [
     "delay",
